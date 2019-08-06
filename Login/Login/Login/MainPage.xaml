@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Login"
+             x:Class="Login.MainPage"
+             BackgroundColor="Lavender"
+             >
+
+    <StackLayout  Margin="20" VerticalOptions="Center">
+        <!-- Place new controls here -->
+        <Label Text="Hoş geldiniz" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+               FontSize="Large"
+               FontAttributes="Bold"
+               />
+
+        <Entry x:Name="userName"
+               Placeholder="Kullanıcı adı yazınız"
+               Margin="10" />
+
+        <Entry x:Name ="userPassword"
+               Placeholder="Parola yazınız"
+               Margin="10" 
+               IsPassword="True"/>
+
+        <Button x:Name="Next"
+                Text="Giriş yap"
+                Clicked="OnClicked"
+                BorderRadius="70"
+                BackgroundColor="LawnGreen"
+                Margin="10"  />
+
+
+
+    </StackLayout>
+
+</ContentPage>

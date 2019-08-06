@@ -1,0 +1,13 @@
+C:\Users\Kadriye\source\repos\Login\Login\Login\bin\Debug\netstandard2.0\Login.deps.json
+C:\Users\Kadriye\source\repos\Login\Login\Login\bin\Debug\netstandard2.0\Login.dll
+C:\Users\Kadriye\source\repos\Login\Login\Login\bin\Debug\netstandard2.0\Login.pdb
+C:\Users\Kadriye\source\repos\Login\Login\Login\obj\Debug\netstandard2.0\Login.csprojAssemblyReference.cache
+C:\Users\Kadriye\source\repos\Login\Login\Login\obj\Debug\netstandard2.0\Anasayfa.xaml.g.cs
+C:\Users\Kadriye\source\repos\Login\Login\Login\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kadriye\source\repos\Login\Login\Login\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kadriye\source\repos\Login\Login\Login\obj\Debug\netstandard2.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\Kadriye\source\repos\Login\Login\Login\obj\Debug\netstandard2.0\Login.AssemblyInfoInputs.cache
+C:\Users\Kadriye\source\repos\Login\Login\Login\obj\Debug\netstandard2.0\Login.AssemblyInfo.cs
+C:\Users\Kadriye\source\repos\Login\Login\Login\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kadriye\source\repos\Login\Login\Login\obj\Debug\netstandard2.0\Login.dll
+C:\Users\Kadriye\source\repos\Login\Login\Login\obj\Debug\netstandard2.0\Login.pdb
