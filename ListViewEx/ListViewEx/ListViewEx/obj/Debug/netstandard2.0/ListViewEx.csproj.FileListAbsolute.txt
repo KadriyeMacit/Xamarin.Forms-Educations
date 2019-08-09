@@ -1,0 +1,12 @@
+C:\Users\Kadriye\source\repos\ListViewEx\ListViewEx\ListViewEx\bin\Debug\netstandard2.0\ListViewEx.deps.json
+C:\Users\Kadriye\source\repos\ListViewEx\ListViewEx\ListViewEx\bin\Debug\netstandard2.0\ListViewEx.dll
+C:\Users\Kadriye\source\repos\ListViewEx\ListViewEx\ListViewEx\bin\Debug\netstandard2.0\ListViewEx.pdb
+C:\Users\Kadriye\source\repos\ListViewEx\ListViewEx\ListViewEx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kadriye\source\repos\ListViewEx\ListViewEx\ListViewEx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kadriye\source\repos\ListViewEx\ListViewEx\ListViewEx\obj\Debug\netstandard2.0\ListViewEx.csproj.CoreCompileInputs.cache
+C:\Users\Kadriye\source\repos\ListViewEx\ListViewEx\ListViewEx\obj\Debug\netstandard2.0\ListViewEx.AssemblyInfoInputs.cache
+C:\Users\Kadriye\source\repos\ListViewEx\ListViewEx\ListViewEx\obj\Debug\netstandard2.0\ListViewEx.AssemblyInfo.cs
+C:\Users\Kadriye\source\repos\ListViewEx\ListViewEx\ListViewEx\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kadriye\source\repos\ListViewEx\ListViewEx\ListViewEx\obj\Debug\netstandard2.0\ListViewEx.dll
+C:\Users\Kadriye\source\repos\ListViewEx\ListViewEx\ListViewEx\obj\Debug\netstandard2.0\ListViewEx.pdb
+C:\Users\Kadriye\source\repos\ListViewEx\ListViewEx\ListViewEx\obj\Debug\netstandard2.0\ListViewEx.csprojAssemblyReference.cache
