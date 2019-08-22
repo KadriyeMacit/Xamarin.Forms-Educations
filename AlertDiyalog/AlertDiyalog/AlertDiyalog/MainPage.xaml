@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AlertDiyalog"
+             x:Class="AlertDiyalog.MainPage">
+
+    <StackLayout>
+
+        <Entry x:Name="_entry"
+               Placeholder="Buraya bir not yazın." />
+
+        <Label Text="Not için saat seçin." />
+
+        <TimePicker x:Name="_timePicker"
+                    Time="11:00:00"
+                    Format="T"
+                    PropertyChanged="TimePickerPropertyChanged" />
+
+        <Label Text="Hatırlatıcıyı etkinleştir" />
+
+        <Switch x:Name="_switch"
+                HorizontalOptions="EndAndExpand"
+                Toggled="OnSwitchToggled" />
+        
+        
+    </StackLayout>
+</ContentPage>

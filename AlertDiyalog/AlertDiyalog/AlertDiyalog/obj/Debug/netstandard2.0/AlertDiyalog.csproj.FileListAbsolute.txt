@@ -1,0 +1,12 @@
+C:\Users\Kadriye\source\repos\AlertDiyalog\AlertDiyalog\AlertDiyalog\obj\Debug\netstandard2.0\AlertDiyalog.csprojAssemblyReference.cache
+C:\Users\Kadriye\source\repos\AlertDiyalog\AlertDiyalog\AlertDiyalog\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kadriye\source\repos\AlertDiyalog\AlertDiyalog\AlertDiyalog\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kadriye\source\repos\AlertDiyalog\AlertDiyalog\AlertDiyalog\obj\Debug\netstandard2.0\AlertDiyalog.csproj.CoreCompileInputs.cache
+C:\Users\Kadriye\source\repos\AlertDiyalog\AlertDiyalog\AlertDiyalog\obj\Debug\netstandard2.0\AlertDiyalog.AssemblyInfoInputs.cache
+C:\Users\Kadriye\source\repos\AlertDiyalog\AlertDiyalog\AlertDiyalog\obj\Debug\netstandard2.0\AlertDiyalog.AssemblyInfo.cs
+C:\Users\Kadriye\source\repos\AlertDiyalog\AlertDiyalog\AlertDiyalog\obj\Debug\netstandard2.0\AlertDiyalog.dll
+C:\Users\Kadriye\source\repos\AlertDiyalog\AlertDiyalog\AlertDiyalog\obj\Debug\netstandard2.0\AlertDiyalog.pdb
+C:\Users\Kadriye\source\repos\AlertDiyalog\AlertDiyalog\AlertDiyalog\bin\Debug\netstandard2.0\AlertDiyalog.deps.json
+C:\Users\Kadriye\source\repos\AlertDiyalog\AlertDiyalog\AlertDiyalog\bin\Debug\netstandard2.0\AlertDiyalog.dll
+C:\Users\Kadriye\source\repos\AlertDiyalog\AlertDiyalog\AlertDiyalog\bin\Debug\netstandard2.0\AlertDiyalog.pdb
+C:\Users\Kadriye\source\repos\AlertDiyalog\AlertDiyalog\AlertDiyalog\obj\Debug\netstandard2.0\XamlC.stamp
