@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Local_Notification_Push_Notification"
+             x:Class="Local_Notification_Push_Notification.MainPage">
+
+    <StackLayout Margin="20">
+
+        <Entry x:Name="_entry"
+               Placeholder="Başlık yazın."
+               Margin="10"/>
+
+        <Editor x:Name="_editor"
+                Placeholder="Not yazın." 
+                Margin="10"/>
+
+
+        <Label Text="Not için saat seçin." />
+
+        <TimePicker x:Name="_timePicker"
+                    Time="11:00:00"
+                    Format="T"
+                    PropertyChanged="TimePickerPropertyChanged" />
+
+        <Label Text="Hatırlatıcıyı etkinleştir" />
+
+        <Switch x:Name="_switch"
+                HorizontalOptions="EndAndExpand"
+                Toggled="OnSwitchToggled" />
+
+
+    </StackLayout>
+
+</ContentPage>

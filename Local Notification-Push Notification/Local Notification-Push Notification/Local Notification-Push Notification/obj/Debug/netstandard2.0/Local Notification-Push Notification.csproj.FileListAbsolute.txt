@@ -1,0 +1,8 @@
+C:\Users\Kadriye\source\repos\Local Notification-Push Notification\Local Notification-Push Notification\Local Notification-Push Notification\bin\Debug\netstandard2.0\Local Notification-Push Notification.deps.json
+C:\Users\Kadriye\source\repos\Local Notification-Push Notification\Local Notification-Push Notification\Local Notification-Push Notification\bin\Debug\netstandard2.0\Local Notification-Push Notification.dll
+C:\Users\Kadriye\source\repos\Local Notification-Push Notification\Local Notification-Push Notification\Local Notification-Push Notification\obj\Debug\netstandard2.0\Local Notification-Push Notification.csprojAssemblyReference.cache
+C:\Users\Kadriye\source\repos\Local Notification-Push Notification\Local Notification-Push Notification\Local Notification-Push Notification\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kadriye\source\repos\Local Notification-Push Notification\Local Notification-Push Notification\Local Notification-Push Notification\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kadriye\source\repos\Local Notification-Push Notification\Local Notification-Push Notification\Local Notification-Push Notification\obj\Debug\netstandard2.0\Local Notification-Push Notification.csproj.CoreCompileInputs.cache
+C:\Users\Kadriye\source\repos\Local Notification-Push Notification\Local Notification-Push Notification\Local Notification-Push Notification\obj\Debug\netstandard2.0\Local Notification-Push Notification.AssemblyInfoInputs.cache
+C:\Users\Kadriye\source\repos\Local Notification-Push Notification\Local Notification-Push Notification\Local Notification-Push Notification\obj\Debug\netstandard2.0\Local Notification-Push Notification.AssemblyInfo.cs
