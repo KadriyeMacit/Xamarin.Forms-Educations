@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xamarin_proje.MasterPage"
+             xmlns:pages="clr-namespace:xamarin_proje">
+    
+    
+  <MasterDetailPage.Master>
+
+        <ContentPage Title="Menu">
+            
+            <StackLayout Orientation="Vertical">
+                
+                <ScrollView  VerticalOptions="Start">
+                    
+                    <StackLayout Orientation="Vertical"  BackgroundColor="White">
+                        
+                        <StackLayout  Orientation="Vertical">
+
+                            <StackLayout  Orientation="Horizontal"  Margin="5,50,5,5"
+                                                  BackgroundColor="White" HorizontalOptions="FillAndExpand">
+
+                                <Image Source="prof.png"  BackgroundColor="Transparent" HeightRequest="100"
+                                               WidthRequest="100"  VerticalOptions="Center" />
+
+                                <StackLayout Orientation="Vertical">
+                                    
+                                    <Label Text="Hello World" HorizontalTextAlignment="Start" FontSize="Large" 
+                                                 Margin="2,0,0,0"  HorizontalOptions="Start" VerticalOptions="EndAndExpand" TextColor="Black"/>
+                                    
+                                    <Label Text="Xamarin Forms Eğitimi" HorizontalTextAlignment="Start" 
+                                                   FontSize="Small"  Margin="2,0,0,0" HorizontalOptions="Start"
+                                                                            VerticalOptions="StartAndExpand"
+                                                                                            TextColor="#16161d" />
+                                    
+                                </StackLayout>
+                                
+                            </StackLayout>
+                            
+                            
+
+                            <StackLayout BackgroundColor="Black" 
+                                                 MinimumHeightRequest="1" Orientation="Vertical" 
+                                                 HeightRequest="1"
+                                                  HorizontalOptions="FillAndExpand">
+                                
+                                <Label Text="fff" FontSize="1" TextColor="Black" 
+                                               BackgroundColor="Black" 
+                                               HorizontalOptions="CenterAndExpand" />
+                            </StackLayout>
+                            
+                        </StackLayout>
+                        
+                        
+                        
+
+                        <ListView x:Name="navigationList" Margin="0" SeparatorVisibility="Default" 
+                                      VerticalOptions="Start" ItemTapped="Item_Tapped" >
+
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <ViewCell>
+                                        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand"
+                                                         VerticalOptions="Center">
+
+                                            <Image Source="right.png"
+                                                            HorizontalOptions="Start"
+                                                            VerticalOptions="Center" Margin="15,0,5,2" 
+                                                               HeightRequest="25"
+                                                                  WidthRequest="25"/>
+                                            
+                                            
+                                            <Label Text="{Binding OptionName}" FontAttributes="Bold"
+                                                               FontSize="Default" Margin="10,0,5,2"
+                                                               HorizontalOptions="Start"  VerticalOptions="Center"
+                                                               TextColor="#4a4848"/>
+
+                                        </StackLayout>
+                                    </ViewCell>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                        
+                    </StackLayout>
+                    
+                </ScrollView>
+                
+            </StackLayout
+                         >
+        </ContentPage>
+      
+    </MasterDetailPage.Master>
+    
+    
+    
+  <MasterDetailPage.Detail>
+        <ContentPage>
+            <Label Text="Hello World Youtube" FontSize="Large"/>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+    
+    
+</MasterDetailPage>

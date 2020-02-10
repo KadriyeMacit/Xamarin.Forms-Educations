@@ -1,0 +1,16 @@
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\bin\Debug\netstandard2.0\xamarin_proje.deps.json
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\bin\Debug\netstandard2.0\xamarin_proje.dll
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\bin\Debug\netstandard2.0\xamarin_proje.pdb
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\obj\Debug\netstandard2.0\xamarin_proje.csprojAssemblyReference.cache
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\obj\Debug\netstandard2.0\xamarin_proje.csproj.CoreCompileInputs.cache
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\obj\Debug\netstandard2.0\xamarin_proje.AssemblyInfoInputs.cache
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\obj\Debug\netstandard2.0\xamarin_proje.AssemblyInfo.cs
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\obj\Debug\netstandard2.0\xamarin_proje.dll
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\obj\Debug\netstandard2.0\xamarin_proje.pdb
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\obj\Debug\netstandard2.0\MasterPage.xaml.g.cs
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\obj\Debug\netstandard2.0\Books.xaml.g.cs
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\obj\Debug\netstandard2.0\Movies.xaml.g.cs
+C:\Users\Kadriye\source\repos\xamarin_proje\xamarin_proje\xamarin_proje\obj\Debug\netstandard2.0\Profile.xaml.g.cs
